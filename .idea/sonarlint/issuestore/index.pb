@@ -7,3 +7,7 @@ T
 $contracts/consumer-verification.clar,9/5/95d874116380ad8cd3e09c3fb49cd296159312a9
 R
 "contracts/entity-verification.clar,6/6/660a74c2729ef5ed0792e040998f714055016c6e
+S
+#contracts/product-registration.clar,8/6/8657cae640c8ecd6bb94fb5ec8a3fe40377012de
+M
+contracts/event-tracking.clar,3/7/379142b1e96c19090eceaf6682d6542dc169c281
