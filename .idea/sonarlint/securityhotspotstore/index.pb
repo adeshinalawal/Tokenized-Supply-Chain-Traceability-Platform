@@ -5,3 +5,5 @@ L
 contracts/certification.clar,2/8/28224e37ba53d70868e7d7020ff8ca71138d80b2
 T
 $contracts/consumer-verification.clar,9/5/95d874116380ad8cd3e09c3fb49cd296159312a9
+R
+"contracts/entity-verification.clar,6/6/660a74c2729ef5ed0792e040998f714055016c6e
